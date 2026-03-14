@@ -1,4 +1,4 @@
-5public class BinaryTriangle {
+public class BinaryTriangle {
 
     public static void main(String[] args) {
 
